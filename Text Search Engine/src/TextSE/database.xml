@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Students>
+       <Student id="1">
+             <Name>Prafful Chauhan</Name>
+             <Age>20</Age>
+              <About>He is a simple guy . Doing search engine project using java . Prafful                           knows java . Prafful also knows BlockChain development and ReactJS . Prafful is currently looking for internship . Prafful is doing his B.Tech from                    NIT Silchar Assam . Prafful is also trying to get a decent job from NIT Silchar. He is a coder and he regularly give coding contest on codeforces , Atcoder and leetcode . He is from                     Uttar Pradesh.</About>   
+        </Student>    
+       <Student id="2">
+             <Name>Hritik Agrahari</Name>
+             <Age>21</Age>
+             <About>He is a simple guy . Done Android development project . Hritik knows java . Hritik also knows                       website testing and security . Hritik is currently looking for internship . Hritik is doing his B.Tech                   from NIT Silchar Assam . Hritik is trying to get a decent job from NIT Silchar . He is pursuing                                    Electronics and communication Engineering ECE . He is from Uttar Pradesh . He is a coder </About>
+        </Student>
+       <Student id="3">
+             <Name>Pankaj Kumar</Name>
+             <Age>21</Age>
+             <About>He is a simple guy . Done web development project . Pankaj knows java . Pankaj also knows                                 machine Learning. Pankaj is currently looking for internship . Pankaj is doing his B.Tech from NIT Silchar              Assam . Pankaj is trying to get a decent job from NIT Silchar . He is pursuing Electronics and communication              Engineering ECE . He is from Bihar . He is a coder .</About>
+        </Student>
+       <Student id="4">
+             <Name>Milind Kumar</Name>
+             <Age>20</Age>
+              <About>Done Machine learning project using open CV  ML . Milind knows C++ .               Milind also knows  Machine larning  (ML) and Deep Learning . Pankaj is currently looking        for internship . Milind is doing his B.Tech from NIT Silchar Assam . Milind is trying to get a decent job from NIT Silchar .                  He is pursuing Electronics and communication Engineering ECE.He is from Bihar .</About>
+        </Student> 
+       <Student id="5">
+             <Name>Ayush Sinha</Name>
+             <Age>20</Age>
+              <About>He is a extra ordinary guy . Done library management project using java. Ayush knows java . Ayush               also knows Machine larning  (ML) and Deep Learning . Ayush is currently looking for internship . Ayush               is doing his B.Tech from NIT Silchar Assam . Ayush is trying to get a decent job from NIT Silchar . He is               pursuing Electronics and communication Engineering ECE . He is from Uttar Pradesh</About>
+        </Student>
+       <Student id="6">
+             <Name>Naman Tyagi</Name>
+             <Age>21</Age>
+              <About>He is a extra ordinary guy . Done Machine learning project. Tyagi knows python . Tyagi also knows                Machine larning  (ML) and Deep Learning . Naman is currently looking for internship . Tyagi is doing his                   B.Tech from NIT Silchar Assam . Tyagi is trying to get a decent job from NIT Silchar . He is pursuing                                 Electronics and communication Engineering ECE . He is from Uttar Pradesh</About>
+        </Student>
+       <Student id="7">
+             <Name>Yogesh Kakodiya</Name>
+             <Age>22</Age>
+              <About>He is much talented guy I have seen . Done Android app developement project . Yogesh knows                     java . Yogesh also knows  python and android. Yogesh is currently looking for internship . Yogesh is                doing his B.Tech from NIT Silchar Assam. Yogesh is trying to get a decent job from NIT Silchar . He is pursuing                Electrical Engineering ECE. He is from Rajasthan . He is a coder .</About>
+        </Student>
+       <Student id="8">
+             <Name>Abhishek Chandra</Name>
+             <Age>22</Age>
+               <About>Done library management project using java . He is also known as Cheenu . He knows java. Cheenu knows core electrical subjects . Cheenu has done GATE class               from madeeasy delhi . Cheenu is doing his  B.Tech from NIT Silchar Assam. Cheenu is preparing for GATE EE                2023 . Cheenu is also trying to get a decent job  from NIT Silchar . He is pursuing Electrical                                     Engineering EE . He is from Uttrakhand .He is dedicated to gate. Gate is his passion</About>   
+        </Student>
+       <Student id="9">
+             <Name>Navneet Kumar</Name>
+             <Age>20</Age>
+             <About>He is a talented guy . Done so many projects using different technology . Navneet knows java .               Navneet knows core computer science subjects. Navneet is              doing his  B.Tech from sharda university delhi. Navneet is also to get a decent job  from sharda university               delhi . He is pursuing Computer science and engineering.He is from UP .</About>   
+        </Student>
+       <Student id="10">
+             <Name>Sanjay Suresh</Name>
+             <Age>20</Age>
+             <About>He is a creative guy . Sanjay knows C++. Sanajay is also knows video editing . Sanajay knows core              electrical science subjects . Sanjay is doing his B.Tech          from NIT Silchar He is pursuing electrical engineering EE . He is from Kerela .</About>  
+        </Student>
+       <Student id="11">
+             <Name>Ramprakash Gupta</Name>
+             <Age>22</Age>
+              <About>He is a smart guy . Ramprakash knows Machine larning  ML and Deep Learning . Ramprakash is doing his                            B.Tech from NIT Silchar. Ramprakash is preparing for GATE 2023 . Ramprakash is also trying                to get a decent job    from NIT Silchar . He is pursuing Electronics and communication engineering .He                 is from Madhya Pradesh .</About> 
+        </Student>
+       <Student id="12">
+             <Name>Aryan Ohekar</Name>
+             <Age>21</Age>
+              <About> Done library management projects using java . Aryan knows C++ . Aryan also knows                            networking and cyber security . Aryan has done internship from posoco delhi . Aryan is doing his                       B.Tech from NIT Silchar Assam . Aryan is trying to get a decent  job from NIT Silchar . He is pursuing                 Electronics and communication Engineering ECE . He is from  Maharastra</About>  
+        </Student>
+</Students>
