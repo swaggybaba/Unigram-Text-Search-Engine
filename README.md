@@ -1,6 +1,7 @@
 # Text-Based-Unigram-search-Engine
 ## Aim:-
-This is a text based unigram search-sort engine using concept of inverted indexing on any XML file using java development tools.
+####This is a text based unigram search-sort engine using concept of inverted indexing on any XML file using java development tools.
+
 The aim of this project is to build a prototype of a search engine which works on XML page.One demo XML page has been added to this project as database.xml.This is a kind of search cum sort text search engine. In which we sort all the documents based on the relevance.Than given a query, it retrieves relevant ranked documents and their titles using index.
 
 I have tried to maintain a data structure which can keep information of all the documents id, a word present in. Example Raja is present in 1, 12,100 etc.
